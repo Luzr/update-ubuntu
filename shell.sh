@@ -1,3 +1,6 @@
+# to run wget -O - https://raw.githubusercontent.com/Luzr/update-ubuntu/master/shell.sh | bash
+
+
 #!/bin/bash
 # from https://askubuntu.com/questions/196768/how-to-install-updates-via-command-line
 # sudo -s -- <<EOF
